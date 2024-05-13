@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @USER-NAME12
-- 👀 I’m interested in Python coding and AI
-- 🌱 I’m currently learning AI coding
+- 👋 Hi, I’m Oracle
+- 👀 I’m interested in browser coding and all the Cs
 - 💞️ I’m not looking to colaborate
 
 <!---
